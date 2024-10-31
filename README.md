@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+My name is Angely, I'm learning to code, I'm from Venezuela!
+I'm currently learning full-stack and Android development.
+I also work with xbase for a small company.
 <!--
 **angelycontrerasr/angelycontrerasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
