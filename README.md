@@ -7,10 +7,11 @@ I also work with xbase for a small company.
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 2 mins    ███████████████▒░░░░░░░░░   61.90 %
-HTML         47 mins         ██████░░░░░░░░░░░░░░░░░░░   24.02 %
-CSS          23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
-JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+JavaScript       3 hrs 42 mins   ████████████████▓░░░░░░░░   66.28 %
+HTML             55 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+CSS              48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
+JSON             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
