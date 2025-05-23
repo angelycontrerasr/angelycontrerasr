@@ -7,7 +7,7 @@ I also work with xbase for a small company.
  <!--START_SECTION:waka-->
 
 ```txt
-Other   7 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
