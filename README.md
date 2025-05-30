@@ -7,7 +7,9 @@ I also work with xbase for a small company.
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   29 mins         ███████████████████▓░░░░░   79.21 %
+CSV      7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
