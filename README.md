@@ -17,7 +17,11 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   3 hrs 19 mins   ██████████████▓░░░░░░░░░░   59.20 %
+CSS          1 hr 36 mins    ███████░░░░░░░░░░░░░░░░░░   28.66 %
+HTML         29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
