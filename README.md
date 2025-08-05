@@ -17,11 +17,11 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        4 hrs 57 mins   ██████████████▒░░░░░░░░░░   57.68 %
-CSS               2 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.14 %
-HTML              1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-Markdown          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Other             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+JavaScript        5 hrs 15 mins   ██████████▒░░░░░░░░░░░░░░   40.84 %
+TypeScript        3 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   23.75 %
+CSS               2 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.80 %
+HTML              1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Groovy            39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
 ```
 
 <!--END_SECTION:waka-->
