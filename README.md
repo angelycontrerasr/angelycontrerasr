@@ -17,9 +17,7 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-Java     1 hr 38 mins    █████████████████▓░░░░░░░   71.32 %
-Kotlin   24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
-XML      14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+Kotlin   24 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
