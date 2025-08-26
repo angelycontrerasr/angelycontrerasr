@@ -17,7 +17,8 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin   1 hr 3 mins     █████████████████████████   99.99 %
+TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
