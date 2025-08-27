@@ -17,8 +17,11 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   1 hr 3 mins     █████████████████████████   99.99 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Kotlin            1 hr 3 mins     ████████████░░░░░░░░░░░░░   48.47 %
+Java              25 mins         █████░░░░░░░░░░░░░░░░░░░░   19.41 %
+Groovy            20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+Gradle            10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Java Properties   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
 ```
 
 <!--END_SECTION:waka-->
