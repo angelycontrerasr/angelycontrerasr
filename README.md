@@ -17,11 +17,11 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           2 hrs 1 min     ███████████████████████░░   92.35 %
-XML              9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Kotlin           2 hrs 1 min     ███████████████████▓░░░░░   78.76 %
+Python           22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+XML              9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
