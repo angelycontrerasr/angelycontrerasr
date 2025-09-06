@@ -17,11 +17,11 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           2 hrs 17 mins   ███████████▒░░░░░░░░░░░░░   45.15 %
-Go               2 hrs 3 mins    ██████████░░░░░░░░░░░░░░░   40.51 %
-Python           22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-XML              14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Go               3 hrs 52 mins   ██████████████░░░░░░░░░░░   56.16 %
+Kotlin           2 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.27 %
+Python           22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+XML              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
