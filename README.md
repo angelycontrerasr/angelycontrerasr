@@ -22,11 +22,11 @@ I started university this year.
  <!--START_SECTION:waka-->
 
 ```txt
-Go               5 hrs 8 mins    ███████████████▓░░░░░░░░░   62.97 %
-Kotlin           2 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   28.11 %
-Python           22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-XML              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Go               6 hrs 28 mins   █████████████████░░░░░░░░   67.65 %
+Kotlin           2 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░   23.95 %
+Python           22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+XML              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Markdown         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
