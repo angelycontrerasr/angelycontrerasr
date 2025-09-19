@@ -22,7 +22,7 @@ I started university this year.
  <!--START_SECTION:waka-->
 
 ```txt
-Go   19 mins         █████████████████████████   100.00 %
+Go   50 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
