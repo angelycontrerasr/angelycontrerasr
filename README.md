@@ -22,7 +22,8 @@ I started university this year.
  <!--START_SECTION:waka-->
 
 ```txt
-Go   50 mins         █████████████████████████   100.00 %
+Go           1 hr 29 mins    █████████████░░░░░░░░░░░░   52.65 %
+TypeScript   1 hr 20 mins    ████████████░░░░░░░░░░░░░   47.35 %
 ```
 
 <!--END_SECTION:waka-->
