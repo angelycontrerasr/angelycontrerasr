@@ -22,8 +22,11 @@ I started university this year.
  <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 29 mins    █████████████░░░░░░░░░░░░   52.65 %
-TypeScript   1 hr 20 mins    ████████████░░░░░░░░░░░░░   47.35 %
+Go           1 hr 24 mins    ████████▒░░░░░░░░░░░░░░░░   33.12 %
+TypeScript   1 hr 20 mins    ████████░░░░░░░░░░░░░░░░░   31.65 %
+Kotlin       1 hr 15 mins    ███████▒░░░░░░░░░░░░░░░░░   29.51 %
+Gradle       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Groovy       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
