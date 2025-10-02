@@ -22,10 +22,10 @@ I started university this year.
  <!--START_SECTION:waka-->
 
 ```txt
-Go           3 hrs 38 mins   ████████████████████████░   95.62 %
-Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Go           2 hrs 24 mins   ███████████████████████▓░   94.27 %
+Git Config   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
