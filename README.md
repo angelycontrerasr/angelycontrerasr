@@ -22,9 +22,7 @@ I started university this year.
  <!--START_SECTION:waka-->
 
 ```txt
-Other        7 hrs 28 mins   ████████████████████████▒   97.73 %
-TypeScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other   7 hrs 28 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
