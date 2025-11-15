@@ -22,10 +22,7 @@ I started university this year.
  <!--START_SECTION:waka-->
 
 ```txt
-Python   41 mins         ████████████▒░░░░░░░░░░░░   49.69 %
-Other    32 mins         █████████▒░░░░░░░░░░░░░░░   37.99 %
-C++      9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-C        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Python   41 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
