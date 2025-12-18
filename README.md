@@ -22,7 +22,8 @@ I started university this year.
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++   31 mins         ████████████████████████▓   99.02 %
+C     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
