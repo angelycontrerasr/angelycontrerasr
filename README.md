@@ -22,9 +22,8 @@ I started university this year.
  <!--START_SECTION:waka-->
 
 ```txt
-C++     3 hrs 51 mins   █████████████████████████   99.61 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+C++     3 hrs 20 mins   █████████████████████████   99.71 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
