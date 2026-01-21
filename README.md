@@ -22,10 +22,8 @@ I started university this year.
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 25 mins    █████████████████████▓░░░   87.21 %
-Markdown     8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+TypeScript   26 mins         ████████████████████████▓   98.41 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
