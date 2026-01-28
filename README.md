@@ -22,7 +22,10 @@ I started university this year.
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     41 mins         █████████████████████▓░░░   86.60 %
+Text       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+C++        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
