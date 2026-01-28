@@ -1,8 +1,7 @@
 <h1>Hi 👋, I'm  Angely</h1>
-I'm currently learning backend and Android development.
-I gratuated from CS50x this year! https://certificates.cs50.io/cf3e183e-63d5-4b5a-92db-b48570623d0a.pdf?size=letter
+I'm currently learning flutter development.
+I study in the Universidad Experimental de la Gran Caracas.
 I also work with xbase for a national company.
-I started university this year.
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
