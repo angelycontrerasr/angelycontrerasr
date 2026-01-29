@@ -21,10 +21,10 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-Python     41 mins         █████████████████████▓░░░   86.60 %
-Text       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-C++        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Python     1 hr 51 mins    ███████████████████████░░   91.98 %
+Markdown   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Text       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+C++        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
