@@ -21,9 +21,7 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-Kotlin     1 hr 40 mins    ██████████████▓░░░░░░░░░░   58.07 %
-Python     1 hr 9 mins     ██████████░░░░░░░░░░░░░░░   40.05 %
-Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Kotlin   1 hr 40 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
