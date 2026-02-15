@@ -21,7 +21,11 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin           4 hrs 37 mins   ████████████████████████▓   99.31 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
