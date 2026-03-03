@@ -21,9 +21,7 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-Python   10 mins               ████████████████████░░░░░   80.26 %
-Other    2 mins                █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-Kotlin   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
