@@ -21,8 +21,11 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   46 mins               █████████████████████░░░░   84.33 %
-Bash         8 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+JavaScript   1 hr 40 mins          ████████████████░░░░░░░░░   63.61 %
+TypeScript   46 mins               ███████▒░░░░░░░░░░░░░░░░░   29.37 %
+Bash         8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+HTML         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
