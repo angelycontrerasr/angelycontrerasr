@@ -21,9 +21,7 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 40 mins          ████████████████████████▒   97.60 %
-HTML         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
