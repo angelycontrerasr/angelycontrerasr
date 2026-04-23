@@ -21,7 +21,8 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   1 hr 1 min            ████████████████████████▒   96.83 %
+Other        2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
