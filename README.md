@@ -21,7 +21,10 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       2 hrs 20 mins         █████████████░░░░░░░░░░░░   52.57 %
+TypeScript   1 hr 43 mins          █████████▓░░░░░░░░░░░░░░░   38.71 %
+Other        22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
