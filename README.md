@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm  Angely</h1>
-I'm currently learning flutter development.
+I'm currently learning python frameworks and react native.
 I study in the Universidad Experimental de la Gran Caracas.
 I also work with xbase for a national company.
 </p>
