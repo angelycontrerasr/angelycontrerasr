@@ -21,11 +21,10 @@ I also work with xbase for a national company.
  <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 45 mins         ████████████░░░░░░░░░░░░░   48.41 %
-TypeScript   3 hrs 24 mins         ███████████░░░░░░░░░░░░░░   44.00 %
-Other        13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Markdown     10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-TSConfig     6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Python       2 hrs 46 mins         ███████████████████▓░░░░░   78.09 %
+TypeScript   32 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
+Markdown     10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Text         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
